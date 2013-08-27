@@ -1,0 +1,20 @@
+body 
+{
+	background: #EFEFEF;
+	color: #4C4C4C;
+	font-family: "PT Sans", Arial;
+	font-size: 16px;
+	margin: 0;
+}
+header
+{
+	background: #434343;
+	color: white;
+	padding: 0.5em;
+	text-align: left
+}
+header figure, header h1
+{
+	display: inline-block;
+	vertical-align: top;
+}
