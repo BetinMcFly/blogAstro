@@ -18,3 +18,20 @@ header figure, header h1
 	display: inline-block;
 	vertical-align: top;
 }
+header h1
+{
+	font-size: 20px;
+	font-weight: normal;
+	margin: 1em 0 0 1em;
+	width: 60%;
+}
+header #avatar
+{
+
+	margin: 1em 1em 0 0;
+	float: right;
+}
+header #logo img
+{
+	width: 80px;
+}
